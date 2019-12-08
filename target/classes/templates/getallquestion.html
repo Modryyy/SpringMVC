@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>LoginApp</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body id="getall">
+<center>
+    <div border="1" width="1z00">
+<div id="hej" th:each="pytanie : ${questionlist}">
+        <font color ="white" style="font-family: Calibri" th:text="'idPytania:' + ${pytanie.idPytania}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'Nagroda:' + ${pytanie.Nagroda}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'Pytanie:' +${pytanie.Pytanie}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'A:' + ${pytanie.A}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'B:' +${pytanie.B}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'C:' + ${pytanie.C}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'D:' +${pytanie.D}"></font><br>
+    <font color ="white" style="font-family: Calibri" th:text="'PrawidlowaOdpowiedz:' +${pytanie.PrawidlowaOdpowiedz}"></font><br>
+    <font color ="white" style="font-family: Calibri">----------------------------</font>
+
+</div>
+<form method="get">
+    <button formaction="/home">Wróć do Menu</button>
+</form>
+    </div>
+</center>
+</body>
+</html>

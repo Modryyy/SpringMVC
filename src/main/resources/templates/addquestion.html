@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Dodaj Pytanie</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body id="add">
+<center>
+
+<form method="post">
+    <input type="number" placeholder="Kwota" name="nagroda" th:field="*{pytaniaKey.Nagroda}"><br>
+    <input type="text" placeholder="Pytanie" name="pytanie" th:field="*{pytaniaKey.Pytanie}"><br>
+    <input type="text" placeholder="Odp:A" name="a" th:field="*{pytaniaKey.A}"><br>
+    <input type="text" placeholder="Odp:B" name="b" th:field="*{pytaniaKey.B}"><br>
+    <input type="text" placeholder="Odp:C" name="c" th:field="*{pytaniaKey.C}"><br>
+    <input type="text" placeholder="Odp:D" name="d" th:field="*{pytaniaKey.D}"><br>
+    <input type="text" placeholder="Prawidlowa Odpowiedź:" name="prawidlowaodpowiedz" th:field="*{pytaniaKey.PrawidlowaOdpowiedz}"><br>
+    <input type="submit" value="OK">
+</form>
+</center>
+</body>
+</html>

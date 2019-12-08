@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="pl.edu.wszib.model.Pytanie" table="pytania">
+        <id name="idPytania" column="idpytania">
+            <generator class="native"/>
+        </id>
+        <property name="Nagroda" column="nagroda" type="int"/>
+        <property name="Pytanie" column="pytanie" type="string"/>
+        <property name="A" column="a" type="string"/>
+        <property name="B" column="b" type="string"/>
+        <property name="C" column="c" type="string"/>
+        <property name="D" column="d" type="string"/>
+        <property name="PrawidlowaOdpowiedz" column="prawidlowaodpowiedz" type="string"/>
+
+    </class>
+</hibernate-mapping>
+

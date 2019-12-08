@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91861823-fdd8-4305-8de7-33cab269734e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BazaDanych — kopia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/db/DBConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/db/DBConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/db/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/db/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/model/Pytanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/model/Pytanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ZAD1.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ZAD1.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ZAD1.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ZAD1.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/wszib/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/wszib/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/wszib/db/DBConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/wszib/db/DBConnector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/wszib/db/gui/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/wszib/db/gui/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/edu/wszib/model/Pytanie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/edu/wszib/model/Pytanie.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TvxUBe3oHtpqYzGZsttvRqj6HP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lab8/lab8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.edu.wszib.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia\src\main\java\pl\edu\wszib\controller" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.wszib.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia — kopia (2)\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych — kopia\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\obiekto (3)\obiekto\BazaDanych\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.wszib.Main" />
+      <module name="BazaDanych — kopia — kopia (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.wszib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BazaDanych — kopia" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.edu.wszib.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91861823-fdd8-4305-8de7-33cab269734e" name="Default Changelist" comment="" />
+      <created>1574354383285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574354383285</updated>
+      <workItem from="1575207936902" duration="109000" />
+      <workItem from="1575423207304" duration="2249000" />
+      <workItem from="1575460274825" duration="25056000" />
+      <workItem from="1575497894591" duration="2548000" />
+      <workItem from="1575556707022" duration="9243000" />
+      <workItem from="1575568947275" duration="497000" />
+      <workItem from="1575725226310" duration="754000" />
+      <workItem from="1575751180305" duration="3159000" />
+      <workItem from="1575754736279" duration="6134000" />
+      <workItem from="1575805132736" duration="8600000" />
+      <workItem from="1575827411926" duration="2416000" />
+      <workItem from="1575839171440" duration="1575000" />
+    </task>
+    <task id="LOCAL-00001" summary="hibernate dodany">
+      <created>1574690161970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574690161970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hibernate dodany" />
+    <option name="LAST_COMMIT_MESSAGE" value="hibernate dodany" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Assign_Data_Sources" timestamp="1575463592660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1575463592660" />
+    <state x="1158" y="178" key="#Main" timestamp="1575755617079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1158" y="178" key="#Main/0.0.1920.1040@0.0.1920.1040" timestamp="1575755617079" />
+    <state x="430" y="181" key="#Project_Structure" timestamp="1575465558958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575465558958" />
+    <state x="552" y="178" key="#SQL_Dialects" timestamp="1575840908235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1575840908235" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575841152101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575841152101" />
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575569140427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575569140427" />
+    <state x="643" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1575466675882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575466675882" />
+    <state x="365" y="379" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575755557839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="365" y="379" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1575755557839" />
+    <state x="1171" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575755487440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575755487440" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1575755366530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575755366530" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1575841154286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575841154286" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1575841154286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575841154286" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1575841154286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575841154286" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1575841154286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575841154286" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575839186382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575839186382" />
+    <state x="609" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575463437151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575463437151" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575562358164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575562358164" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>LoginApp</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body id="remove">
+<center>
+<form method="post">
+<input type="number" placeholder="Podaj idPytania ktore chcesz usunąć" name="idpytania" th:field="*{pytaniaKey.idPytania}">
+<input type="submit" value="OK">
+    <br>
+    <br>
+
+</form>
+
+    <form  method="get">
+        <button type="submit" formaction="/home">Powrót do Menu</button><br>
+        <button type="submit" formaction="/getallquestion">Pokaż wszystkie Pytania</button>
+    </form>
+</center>
+
+</body>
+</html>

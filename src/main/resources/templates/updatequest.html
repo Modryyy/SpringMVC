@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Dodaj Pytanie</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<CENTER>
+<body id="UPDATE">
+<font color ="white" style="font-family: Calibri"  >0 w liczbach lub puste w tekstowych wartościach = nie zmieniamy w BD</font><br>
+<form method="post">
+    <font color ="white" style="font-family: Calibri"  >Id pytania</font><br>
+    <input type="number" placeholder="idpytania" name="idpytania" th:field="*{pytaniaKey.idPytania}"><br>
+    <font color ="white" style="font-family: Calibri"  >Kwota</font><br>
+    <input type="number" placeholder="Kwota" name="nagroda" th:field="*{pytaniaKey.Nagroda}"><br>
+    <font color ="white" style="font-family: Calibri"  >Pytanie</font><br>
+    <input type="text" placeholder="Pytanie" name="pytanie" th:field="*{pytaniaKey.Pytanie}"><br>
+    <font color ="white" style="font-family: Calibri"  >Odpowiedź A</font><br>
+    <input type="text" placeholder="Odp:A" name="a" th:field="*{pytaniaKey.A}"><br>
+    <font color ="white" style="font-family: Calibri"  >Odpowiedź B</font><br>
+    <input type="text" placeholder="Odp:B" name="b" th:field="*{pytaniaKey.B}"><br>
+    <font color ="white" style="font-family: Calibri"  >Odpowiedź C</font><br>
+    <input type="text" placeholder="Odp:C" name="c" th:field="*{pytaniaKey.C}"><br>
+    <font color ="white" style="font-family: Calibri"  >Odpowiedź D</font><br>
+    <input type="text" placeholder="Odp:D" name="d" th:field="*{pytaniaKey.D}"><br>
+    <font color ="white" style="font-family: Calibri"  >Prawidłowa Odpowiedź</font><br>
+    <input type="text" placeholder="Prawidlowa Odpowiedź:" name="prawidlowaodpowiedz" th:field="*{pytaniaKey.PrawidlowaOdpowiedz}"><br>
+    <input type="submit" value="OK">
+</form>
+
+</body>
+</CENTER>
+</html>
